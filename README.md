@@ -62,6 +62,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### :writing_hand: My Message :
 
 ```
-let message = 'i don't write code, code rides me';
+let message = 'i don't write code, code rides me !';
 alert(message);
 ```
